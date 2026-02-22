@@ -1,4 +1,4 @@
-# Python-Mini-Projects
+# Python-Projects
 
 ```
 ██████╗ ██╗   ██╗████████╗██╗  ██╗ ██████╗ ███╗   ██╗
